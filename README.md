@@ -18,8 +18,11 @@ Currently, almost all vanilla PvP features are supported except for a few.
 - **Applying 1.17 changes**
 - Bow and arrows
 - Totem of undying
-- Splash potions
+- Projectiles (Splash potions, trident, snowballs, eggs)
 - Proper death messages
+- Better knockback
+- More enchantments
+
 
 ## Usage
 
